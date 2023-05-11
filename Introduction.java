@@ -1,17 +1,14 @@
 
+JAVA CODE INTRODUCING ME 
 
 
-
-
-
-
-public class Introduction {
+class Introduction {
     public static void main(String[] args) {
-        String name = "John Smith";
-        int age = 25;
-        String[] interests = {"Programming", "Reading", "Playing soccer"};
+        String name = "Riddhiman Bhattacharya";
+        int age = 17;
+        String[] interests = {"Physics", "Mathematics", "Coding"};
         
-        System.out.printf("Hi, my name is %s.\n", name);
+        System.out.printf("Hi, my name is %.\n", name);
         System.out.printf("I'm %d years old.\n", age);
         System.out.println("Some of my interests include:");
         for (String interest : interests) {
