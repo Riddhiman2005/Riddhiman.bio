@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    char name[] = "John Smith";
-    int age = 25;
-    char interests[][20] = {"Programming", "Reading", "Playing soccer"};
-    
+    char name[] = "Riddhiman Bhattacharya ";
+    int age = 17;
+    char interests[][20] = {"Physics","Mathematics", "Cryptography", "Graphing"};
+  
     printf("Hi, my name is %s.\n", name);
     printf("I'm %d years old.\n", age);
     printf("Some of my interests include:\n");
@@ -14,7 +14,8 @@ int main() {
         printf("- %s\n", interests[i]);
     }
     
-    printf("I'm excited to be learning and growing in my programming skills, and I look forward to connecting with others in the community!\n");
+    printf(" I want to be a Cosmologist & look forward to solve the secrets of Cosmos using
+Mathematics & Physics !\n");
     
     return 0;
 }
