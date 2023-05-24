@@ -1,9 +1,10 @@
-#include <stdio.h>
+*C code Introducing Me*
 
+#include <stdio.h>
 int main() {
     char name[] = "Riddhiman Bhattacharya ";
     int age = 17;
-    char interests[][20] = {"Physics","Mathematics", "Cryptography", "Graphing"};
+    char interests[][20] = {"Physics","Mathematics","Coding", "Cryptography", "Graphing"};
   
     printf("Hi, my name is %s.\n", name);
     printf("I'm %d years old.\n", age);
