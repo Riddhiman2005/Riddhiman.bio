@@ -4,9 +4,9 @@
 using namespace std;
 
 int main() {
-    string name = "John Smith";
-    int age = 25;
-    string interests[] = {"Programming", "Reading", "Playing soccer"};
+    string name = "Riddhiman Bhattacharya";
+    int age = 17;
+    string interests[] = {"Physics","Mathematics","Graphing","Coding", "Cryptography"};
     
     cout << "Hi, my name is " << name << "." << endl;
     cout << "I'm " << age << " years old." << endl;
