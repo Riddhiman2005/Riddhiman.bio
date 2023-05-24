@@ -1,3 +1,5 @@
+#Introduction#
+
 program introduction
   implicit none
   
@@ -13,6 +15,7 @@ program introduction
     write(*,*) "- ", interests(i)
   end do
   
-  write(*,*) "I'm excited to be learning and growing in my programming skills, and I look forward to connecting with others in the community!"
+  write(*,*) "I want to be a Cosmologist & look forward to solve the secrets of Cosmos using
+Mathematics & Physics"
   
 end program introduction
